@@ -11,7 +11,7 @@ To achieve these goals the following technologies were chosen:
 
 - [Markdown](https://en.wikipedia.org/wiki/Markdown) - Markdown was chosen as the underlying format for the troubleshooting guides.  Markdown is a lightweight markup language designed to make writing for the web more natural and readable in plain text.  Markdown is a widely used publishing engine across the Internet.
 - [GitHub](https://github.com/) - GitHub is chosen as the service to store and manage changes to the troubleshooting guides.  GitHub is widely used by over 180 million developers with over 400 million repositories.  This means it's probably familiar to many who contribute to this repo.
-- [DocFX](httpsd://dotnet.github.io/docfx/) - DocFX is an open source, static site generator that can produce documentation from Markdown files.  GitHub has built-in support for automatically using DocFX to transform the markdown in this repo into HTML *and* publishing that content to the Internet.  This makes publication seamless, meaning that contributors can focus on the troubleshooting content where the publication is handled automatically.
+- [DocFX](https://dotnet.github.io/docfx/) - DocFX is an open source, static site generator that can produce documentation from Markdown files.  GitHub has built-in support for automatically using DocFX to transform the markdown in this repo into HTML *and* publishing that content to the Internet.  This makes publication seamless, meaning that contributors can focus on the troubleshooting content where the publication is handled automatically.
 
 ## How This Site was Created
 
