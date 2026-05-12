@@ -6,33 +6,19 @@ This repo uses a Pull Request (PR) workflow, protected main branch, and a lightw
 
 Complete these steps in the order listed:
 
-1. Fork & Clone the Repo
+1. [Clone the Repo](clone-repo.md)
 
-   MORE DETAIL COMING SOON
+2. [Create a Branch](create-branch.md)
 
-2. Create a Branch
+3. Make the Changes - make your changes to the repo
 
-   MORE DETAIL COMING SOON
+4. [Keep your Branch Up-To-Date](update-branch.md)
 
-3. Make the Changes
+5. [Open a Pull Request](open-pull-request.md)
 
-   MORE DETAIL COMING SOON
+6. [Participate in Review](participate-in-review.md)
 
-4. Keep your Branch Up-To-Date
-
-   MORE DETAIL COMING SOON
-
-5. Open a Pull Request
-
-   MORE DETAIL COMING SOON
-
-6. Participate in Review
-
-   MORE DETAIL COMING SOON
-
-7. Merge & Clean Up
-
-   MORE DETAIL COMING SOON
+7. [Merge & Clean Up](merge-and-clean-up.md)
 
 By participating, you agree to uphold respectful, constructive communication. Be kind, be clear, and help make the project better for everyone.  Every contribution—large or small—helps move the project forward. Your time and effort are genuinely appreciated.
 
